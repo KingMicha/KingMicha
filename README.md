@@ -1,5 +1,5 @@
 # KingMicha / Michael N.
-### Simply. Monumental.
+### Halbe Tasche, halbe Preis
 ----------
 
 ## English:
