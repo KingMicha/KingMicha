@@ -2,23 +2,7 @@
 ### Halbe Tasche, halbe Preis
 ----------
 
-## English:
-#### Who am I:
-- I'm Michael N.
-#### I develop...
-- ...Discord bots...
-- - ...mainly  in TypeScript (JavaScript) (Discord.JS)
-- - ...some in Java (JDA)
-- ...Minecraft Spigot and PowerNukkit Plugins
-- ...Websites
+So hello, I do coding stuff:
 
-## Deutsch:
-### Wer bin ich:
-- Ich bin Michael N.
-#### Was ich programmiere...
-- Discord Bots...
-- - ...vorallem in TypeScript (JavaScript) (Discord.JS)
-- - ...teils in Java (JDA)
-- ...Minecraft Spigot und PowerNukkit Plugins
-- ...Webseiten
-----------
+Java (also a bit with JavaFx), Java-/TypeScript, SQL (MySQL, SQLite3), and at the moment SDL2 with C and Qt with C++
+also some HTML5 and CSS3
